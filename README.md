@@ -1,4 +1,4 @@
-# Evan Luong's Perosnal Portfolio
+# Evan Luong's Personal Portfolio
 
 Welcome to my personal portfolio! This site showcases my work experience, projects, skills, and creative work, giving a snapshot of what I’ve built and learned throughout my career 
 
