@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function(){
         const btn = document.createElement('button');
         btn.type = 'button';
         btn.className = 'project-btn external';
-        btn.textContent = 'View demo';
+        btn.textContent = 'View Project/Website';
 
         const url = card.dataset.url || '';
 
